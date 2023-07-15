@@ -1,0 +1,1 @@
+Simple template to start off ts-node projects
